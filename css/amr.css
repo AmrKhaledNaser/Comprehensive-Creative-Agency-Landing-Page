@@ -1232,7 +1232,7 @@ ul {
     padding-top: var(--main-padding);
     padding-bottom: var(--main-padding);
     position: relative;
-    background-image: url("/imgs/stats.jpg");
+    background-image: url("../imgs/stats.jpg");
     background-size: cover;
     min-height: 300px;
 }
